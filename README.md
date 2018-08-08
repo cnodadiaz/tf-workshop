@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TensorFlow workshops
 
 A few exercises for use at events.
@@ -25,3 +26,6 @@ Thanks! Can you please file an issue, or even better, a pull request? Future dev
 ---
 
 This is not an official Google product.
+=======
+# tf-workshop
+>>>>>>> notebooks
